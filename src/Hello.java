@@ -8,6 +8,9 @@ public class Hello {
 		System.out.println("2040 Burnwood Court");
 		System.out.println("Brookfield WI, 53045");
 		System.out.println("18");
+		System.out.println("1. Capitalism");
+		System.out.println("Socialism");
+		System.out.println("Communism");
 	}
 
 }
