@@ -7,6 +7,7 @@ public class Hello {
 		System.out.println("JACK SONSALLA");
 		System.out.println("2040 Burnwood Court");
 		System.out.println("Brookfield WI, 53045");
+		System.out.println("18");
 	}
 
 }
